@@ -20,14 +20,12 @@
 - 在游戏结束或开始前可以使用按键L选择回放的记录
 
 ## 运行截图
-- 鹤翼阵型
-<br>![](javaScreenshot/鹤翼.jpg)</br>
-- 偃月阵型
-<br>![](javaScreenshot/偃月.jpg)</br>
-- 正在战斗
-<br>![](javaScreenshot/运行.jpg)</br>
-- 记录读取
-<br>![](javaScreenshot/选择记录.jpg)</br>
+- 变换阵型
+<br>![](javaScreenshot/change_form.gif)</br>
+- 开始战斗
+<br>![](javaScreenshot/fight.gif)</br>
+- 记录读取 / 回放
+<br>![](javaScreenshot/replay.gif)</br>
 
 ## 项目目录
 ### javaScreenshot
